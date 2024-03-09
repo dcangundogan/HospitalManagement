@@ -25,10 +25,10 @@ MediCareHub is a comprehensive approach to the hospital management system. It ca
 
 
 Group Members:
- Duygu Can Gündoğan-10465179036
-Alp Eren Çakmak-12415114234
-Melisa Yurtekin-25246504570
-Yelda Sıla Mumcu-42817285096
+ Duygu Can Gündoğan
+Alp Eren Çakmak
+Melisa Yurtekin
+Yelda Sıla Mumcu
 
 
 
