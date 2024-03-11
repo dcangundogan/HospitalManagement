@@ -1,4 +1,4 @@
-# HospitalManagement
+# MediCareHub
 An MySQL 8.0 project for our Sophomore Database Project
 TED UNIVERSITY
 FACULTY OF ENGINEERING
