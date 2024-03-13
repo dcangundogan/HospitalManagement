@@ -119,6 +119,7 @@ def loginChecker():
     mycursor.execute(query)
 
     myresult = mycursor.fetchall()
+    print(myresult)
     if myresult:
         realpswrd = myresult[0]
         # Assuming psswrd_entry is your tkinter Entry widget for password
