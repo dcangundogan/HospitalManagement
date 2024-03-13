@@ -2,7 +2,7 @@ import mysql
 import mysql.connector
 
 import tkinter as tk
-
+#useless
 
 mydb = mysql.connector.connect(
   host="localhost",
